@@ -1,5 +1,4 @@
 I am a student majoring in artificial intelligence at Gachon University.
-I'm working hard with my dream of being a database architect😄
 
 <!--
 **wnddnr0914/wnddnr0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
